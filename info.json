@@ -1,0 +1,26 @@
+{
+  "name": "Alex Paiaina",
+  "website": "",
+  "linkedin": "",
+  "github": "",
+  "email": "alexpaiaina@gmail.com",
+  "resume": "",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal"
+  ],
+  "otherSkills": [
+      "Unagi",
+      "Five Finger Fillet",
+      "Bridge"
+  ]
+}
